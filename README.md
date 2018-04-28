@@ -1,9 +1,4 @@
-<h1>Simplesurance test - seunghun lee</h1>
-<h3>Instructions</h3>
-<p>npm install or yarn install </p>
-<p>npm start or yarn start </p>
-<p>For testing run : npm run test  or yarn run test </p>
-<p>I spent 6hours and didn't have time to make custom responsive pure css style. Validation can be improved. Testing can be improved. One thing I'm proud is that I built component that reads and generates question redux form field from data.json file.</p>
+<p>Seunghun Lee: I can improve UI , especially data set by modifying the chart.</p>
 
 
 <img src="https://raw.githubusercontent.com/react-boilerplate/react-boilerplate-brand/master/assets/banner-metal-optimized.jpg" alt="react boilerplate banner" align="center" />
