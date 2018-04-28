@@ -1,0 +1,13 @@
+body {
+  white-space: pre-line;
+}
+.hidden {
+  display: none;
+}
+.table-operations {
+  margin-bottom: 16px;
+}
+
+.table-operations > button {
+  margin-right: 8px;
+}

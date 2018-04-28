@@ -1,0 +1,791 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<WizardForm /> should render WizardFormPage firstpage 1`] = `
+ShallowWrapper {
+  "complexSelector": ComplexSelector {
+    "buildPredicate": [Function],
+    "childrenOfNode": [Function],
+    "findWhereUnwrapped": [Function],
+  },
+  "length": 1,
+  "node": <connectedWizardForm
+    fields={
+        Object {
+            "A01": Object {
+              "error": undefined,
+              "touched": undefined,
+              "value": "",
+            },
+          }
+    }
+    handleSubmit={undefined}
+    onSave={undefined}
+    questions={
+        Array [
+            Object {
+              "id": "A01",
+              "next": "A02",
+              "reply": "",
+              "text": "What happened to your product?",
+              "type": "string",
+            },
+            Object {
+              "id": "A02",
+              "next": "A04",
+              "reply": "",
+              "text": "When did the incident occur?",
+              "type": "date",
+            },
+            Object {
+              "id": "A03",
+              "next": "A04",
+              "reply": "",
+              "text": "When was your last claim submission?",
+              "type": "date",
+            },
+            Object {
+              "id": "A04",
+              "next": "A05",
+              "reply": "",
+              "text": "When did you purchase your product?",
+              "type": "date",
+            },
+            Object {
+              "id": "A05",
+              "next": "A06",
+              "reply": "",
+              "text": "How much did your product cost?",
+              "type": "number",
+            },
+            Object {
+              "id": "A06",
+              "next": "B01",
+              "reply": "",
+              "text": "Are you insured elsewhere?",
+              "type": "boolean",
+            },
+            Object {
+              "id": "A07",
+              "next": null,
+              "reply": "",
+              "text": "Name of additional insurance?",
+              "type": "string",
+            },
+            Object {
+              "id": "B01",
+              "next": "C01",
+              "reply": "",
+              "text": "Was a police report filed?",
+              "type": "boolean",
+            },
+            Object {
+              "id": "C01",
+              "next": "C02",
+              "reply": "",
+              "text": "Please provide us with your full name?",
+              "type": "string",
+            },
+            Object {
+              "id": "C02",
+              "next": "C03",
+              "reply": "",
+              "text": "Please provide us with a contact number?",
+              "type": "string",
+            },
+            Object {
+              "id": "C03",
+              "next": null,
+              "reply": "",
+              "text": "Please provide us with a contact email address?",
+              "type": "string",
+            },
+            Object {
+              "id": "C04",
+              "next": null,
+              "reply": "",
+              "text": "Please provide us with your date of birth?",
+              "type": "date",
+            },
+          ]
+    }
+    reset={undefined}
+    submitting={undefined}
+/>,
+  "nodes": Array [
+    <connectedWizardForm
+      fields={
+            Object {
+                  "A01": Object {
+                    "error": undefined,
+                    "touched": undefined,
+                    "value": "",
+                  },
+                }
+      }
+      handleSubmit={undefined}
+      onSave={undefined}
+      questions={
+            Array [
+                  Object {
+                    "id": "A01",
+                    "next": "A02",
+                    "reply": "",
+                    "text": "What happened to your product?",
+                    "type": "string",
+                  },
+                  Object {
+                    "id": "A02",
+                    "next": "A04",
+                    "reply": "",
+                    "text": "When did the incident occur?",
+                    "type": "date",
+                  },
+                  Object {
+                    "id": "A03",
+                    "next": "A04",
+                    "reply": "",
+                    "text": "When was your last claim submission?",
+                    "type": "date",
+                  },
+                  Object {
+                    "id": "A04",
+                    "next": "A05",
+                    "reply": "",
+                    "text": "When did you purchase your product?",
+                    "type": "date",
+                  },
+                  Object {
+                    "id": "A05",
+                    "next": "A06",
+                    "reply": "",
+                    "text": "How much did your product cost?",
+                    "type": "number",
+                  },
+                  Object {
+                    "id": "A06",
+                    "next": "B01",
+                    "reply": "",
+                    "text": "Are you insured elsewhere?",
+                    "type": "boolean",
+                  },
+                  Object {
+                    "id": "A07",
+                    "next": null,
+                    "reply": "",
+                    "text": "Name of additional insurance?",
+                    "type": "string",
+                  },
+                  Object {
+                    "id": "B01",
+                    "next": "C01",
+                    "reply": "",
+                    "text": "Was a police report filed?",
+                    "type": "boolean",
+                  },
+                  Object {
+                    "id": "C01",
+                    "next": "C02",
+                    "reply": "",
+                    "text": "Please provide us with your full name?",
+                    "type": "string",
+                  },
+                  Object {
+                    "id": "C02",
+                    "next": "C03",
+                    "reply": "",
+                    "text": "Please provide us with a contact number?",
+                    "type": "string",
+                  },
+                  Object {
+                    "id": "C03",
+                    "next": null,
+                    "reply": "",
+                    "text": "Please provide us with a contact email address?",
+                    "type": "string",
+                  },
+                  Object {
+                    "id": "C04",
+                    "next": null,
+                    "reply": "",
+                    "text": "Please provide us with your date of birth?",
+                    "type": "date",
+                  },
+                ]
+      }
+      reset={undefined}
+      submitting={undefined}
+/>,
+  ],
+  "options": Object {},
+  "renderer": ReactShallowRenderer {
+    "_instance": ShallowComponentWrapper {
+      "_calledComponentWillUnmount": false,
+      "_compositeType": 0,
+      "_context": Object {},
+      "_currentElement": <Provider
+        store={undefined}
+>
+        <connectedWizardForm
+                fields={
+                        Object {
+                                "A01": Object {
+                                  "error": undefined,
+                                  "touched": undefined,
+                                  "value": "",
+                                },
+                              }
+                }
+                handleSubmit={undefined}
+                onSave={undefined}
+                questions={
+                        Array [
+                                Object {
+                                  "id": "A01",
+                                  "next": "A02",
+                                  "reply": "",
+                                  "text": "What happened to your product?",
+                                  "type": "string",
+                                },
+                                Object {
+                                  "id": "A02",
+                                  "next": "A04",
+                                  "reply": "",
+                                  "text": "When did the incident occur?",
+                                  "type": "date",
+                                },
+                                Object {
+                                  "id": "A03",
+                                  "next": "A04",
+                                  "reply": "",
+                                  "text": "When was your last claim submission?",
+                                  "type": "date",
+                                },
+                                Object {
+                                  "id": "A04",
+                                  "next": "A05",
+                                  "reply": "",
+                                  "text": "When did you purchase your product?",
+                                  "type": "date",
+                                },
+                                Object {
+                                  "id": "A05",
+                                  "next": "A06",
+                                  "reply": "",
+                                  "text": "How much did your product cost?",
+                                  "type": "number",
+                                },
+                                Object {
+                                  "id": "A06",
+                                  "next": "B01",
+                                  "reply": "",
+                                  "text": "Are you insured elsewhere?",
+                                  "type": "boolean",
+                                },
+                                Object {
+                                  "id": "A07",
+                                  "next": null,
+                                  "reply": "",
+                                  "text": "Name of additional insurance?",
+                                  "type": "string",
+                                },
+                                Object {
+                                  "id": "B01",
+                                  "next": "C01",
+                                  "reply": "",
+                                  "text": "Was a police report filed?",
+                                  "type": "boolean",
+                                },
+                                Object {
+                                  "id": "C01",
+                                  "next": "C02",
+                                  "reply": "",
+                                  "text": "Please provide us with your full name?",
+                                  "type": "string",
+                                },
+                                Object {
+                                  "id": "C02",
+                                  "next": "C03",
+                                  "reply": "",
+                                  "text": "Please provide us with a contact number?",
+                                  "type": "string",
+                                },
+                                Object {
+                                  "id": "C03",
+                                  "next": null,
+                                  "reply": "",
+                                  "text": "Please provide us with a contact email address?",
+                                  "type": "string",
+                                },
+                                Object {
+                                  "id": "C04",
+                                  "next": null,
+                                  "reply": "",
+                                  "text": "Please provide us with your date of birth?",
+                                  "type": "date",
+                                },
+                              ]
+                }
+                reset={undefined}
+                submitting={undefined}
+        />
+</Provider>,
+      "_debugID": 1,
+      "_hostContainerInfo": null,
+      "_hostParent": null,
+      "_instance": Provider {
+        "_reactInternalInstance": [Circular],
+        "context": Object {},
+        "props": Object {
+          "children": <connectedWizardForm
+            fields={
+                        Object {
+                                    "A01": Object {
+                                      "error": undefined,
+                                      "touched": undefined,
+                                      "value": "",
+                                    },
+                                  }
+            }
+            handleSubmit={undefined}
+            onSave={undefined}
+            questions={
+                        Array [
+                                    Object {
+                                      "id": "A01",
+                                      "next": "A02",
+                                      "reply": "",
+                                      "text": "What happened to your product?",
+                                      "type": "string",
+                                    },
+                                    Object {
+                                      "id": "A02",
+                                      "next": "A04",
+                                      "reply": "",
+                                      "text": "When did the incident occur?",
+                                      "type": "date",
+                                    },
+                                    Object {
+                                      "id": "A03",
+                                      "next": "A04",
+                                      "reply": "",
+                                      "text": "When was your last claim submission?",
+                                      "type": "date",
+                                    },
+                                    Object {
+                                      "id": "A04",
+                                      "next": "A05",
+                                      "reply": "",
+                                      "text": "When did you purchase your product?",
+                                      "type": "date",
+                                    },
+                                    Object {
+                                      "id": "A05",
+                                      "next": "A06",
+                                      "reply": "",
+                                      "text": "How much did your product cost?",
+                                      "type": "number",
+                                    },
+                                    Object {
+                                      "id": "A06",
+                                      "next": "B01",
+                                      "reply": "",
+                                      "text": "Are you insured elsewhere?",
+                                      "type": "boolean",
+                                    },
+                                    Object {
+                                      "id": "A07",
+                                      "next": null,
+                                      "reply": "",
+                                      "text": "Name of additional insurance?",
+                                      "type": "string",
+                                    },
+                                    Object {
+                                      "id": "B01",
+                                      "next": "C01",
+                                      "reply": "",
+                                      "text": "Was a police report filed?",
+                                      "type": "boolean",
+                                    },
+                                    Object {
+                                      "id": "C01",
+                                      "next": "C02",
+                                      "reply": "",
+                                      "text": "Please provide us with your full name?",
+                                      "type": "string",
+                                    },
+                                    Object {
+                                      "id": "C02",
+                                      "next": "C03",
+                                      "reply": "",
+                                      "text": "Please provide us with a contact number?",
+                                      "type": "string",
+                                    },
+                                    Object {
+                                      "id": "C03",
+                                      "next": null,
+                                      "reply": "",
+                                      "text": "Please provide us with a contact email address?",
+                                      "type": "string",
+                                    },
+                                    Object {
+                                      "id": "C04",
+                                      "next": null,
+                                      "reply": "",
+                                      "text": "Please provide us with your date of birth?",
+                                      "type": "date",
+                                    },
+                                  ]
+            }
+            reset={undefined}
+            submitting={undefined}
+/>,
+          "store": undefined,
+        },
+        "refs": Object {},
+        "state": null,
+        "store": undefined,
+        "updater": Object {
+          "enqueueCallback": [Function],
+          "enqueueCallbackInternal": [Function],
+          "enqueueElementInternal": [Function],
+          "enqueueForceUpdate": [Function],
+          "enqueueReplaceState": [Function],
+          "enqueueSetState": [Function],
+          "isMounted": [Function],
+          "validateCallback": [Function],
+        },
+      },
+      "_mountOrder": 1,
+      "_pendingCallbacks": null,
+      "_pendingElement": null,
+      "_pendingForceUpdate": false,
+      "_pendingReplaceState": false,
+      "_pendingStateQueue": null,
+      "_renderedComponent": NoopInternalComponent {
+        "_currentElement": <connectedWizardForm
+          fields={
+                    Object {
+                              "A01": Object {
+                                "error": undefined,
+                                "touched": undefined,
+                                "value": "",
+                              },
+                            }
+          }
+          handleSubmit={undefined}
+          onSave={undefined}
+          questions={
+                    Array [
+                              Object {
+                                "id": "A01",
+                                "next": "A02",
+                                "reply": "",
+                                "text": "What happened to your product?",
+                                "type": "string",
+                              },
+                              Object {
+                                "id": "A02",
+                                "next": "A04",
+                                "reply": "",
+                                "text": "When did the incident occur?",
+                                "type": "date",
+                              },
+                              Object {
+                                "id": "A03",
+                                "next": "A04",
+                                "reply": "",
+                                "text": "When was your last claim submission?",
+                                "type": "date",
+                              },
+                              Object {
+                                "id": "A04",
+                                "next": "A05",
+                                "reply": "",
+                                "text": "When did you purchase your product?",
+                                "type": "date",
+                              },
+                              Object {
+                                "id": "A05",
+                                "next": "A06",
+                                "reply": "",
+                                "text": "How much did your product cost?",
+                                "type": "number",
+                              },
+                              Object {
+                                "id": "A06",
+                                "next": "B01",
+                                "reply": "",
+                                "text": "Are you insured elsewhere?",
+                                "type": "boolean",
+                              },
+                              Object {
+                                "id": "A07",
+                                "next": null,
+                                "reply": "",
+                                "text": "Name of additional insurance?",
+                                "type": "string",
+                              },
+                              Object {
+                                "id": "B01",
+                                "next": "C01",
+                                "reply": "",
+                                "text": "Was a police report filed?",
+                                "type": "boolean",
+                              },
+                              Object {
+                                "id": "C01",
+                                "next": "C02",
+                                "reply": "",
+                                "text": "Please provide us with your full name?",
+                                "type": "string",
+                              },
+                              Object {
+                                "id": "C02",
+                                "next": "C03",
+                                "reply": "",
+                                "text": "Please provide us with a contact number?",
+                                "type": "string",
+                              },
+                              Object {
+                                "id": "C03",
+                                "next": null,
+                                "reply": "",
+                                "text": "Please provide us with a contact email address?",
+                                "type": "string",
+                              },
+                              Object {
+                                "id": "C04",
+                                "next": null,
+                                "reply": "",
+                                "text": "Please provide us with your date of birth?",
+                                "type": "date",
+                              },
+                            ]
+          }
+          reset={undefined}
+          submitting={undefined}
+/>,
+        "_debugID": 2,
+        "_renderedOutput": <connectedWizardForm
+          fields={
+                    Object {
+                              "A01": Object {
+                                "error": undefined,
+                                "touched": undefined,
+                                "value": "",
+                              },
+                            }
+          }
+          handleSubmit={undefined}
+          onSave={undefined}
+          questions={
+                    Array [
+                              Object {
+                                "id": "A01",
+                                "next": "A02",
+                                "reply": "",
+                                "text": "What happened to your product?",
+                                "type": "string",
+                              },
+                              Object {
+                                "id": "A02",
+                                "next": "A04",
+                                "reply": "",
+                                "text": "When did the incident occur?",
+                                "type": "date",
+                              },
+                              Object {
+                                "id": "A03",
+                                "next": "A04",
+                                "reply": "",
+                                "text": "When was your last claim submission?",
+                                "type": "date",
+                              },
+                              Object {
+                                "id": "A04",
+                                "next": "A05",
+                                "reply": "",
+                                "text": "When did you purchase your product?",
+                                "type": "date",
+                              },
+                              Object {
+                                "id": "A05",
+                                "next": "A06",
+                                "reply": "",
+                                "text": "How much did your product cost?",
+                                "type": "number",
+                              },
+                              Object {
+                                "id": "A06",
+                                "next": "B01",
+                                "reply": "",
+                                "text": "Are you insured elsewhere?",
+                                "type": "boolean",
+                              },
+                              Object {
+                                "id": "A07",
+                                "next": null,
+                                "reply": "",
+                                "text": "Name of additional insurance?",
+                                "type": "string",
+                              },
+                              Object {
+                                "id": "B01",
+                                "next": "C01",
+                                "reply": "",
+                                "text": "Was a police report filed?",
+                                "type": "boolean",
+                              },
+                              Object {
+                                "id": "C01",
+                                "next": "C02",
+                                "reply": "",
+                                "text": "Please provide us with your full name?",
+                                "type": "string",
+                              },
+                              Object {
+                                "id": "C02",
+                                "next": "C03",
+                                "reply": "",
+                                "text": "Please provide us with a contact number?",
+                                "type": "string",
+                              },
+                              Object {
+                                "id": "C03",
+                                "next": null,
+                                "reply": "",
+                                "text": "Please provide us with a contact email address?",
+                                "type": "string",
+                              },
+                              Object {
+                                "id": "C04",
+                                "next": null,
+                                "reply": "",
+                                "text": "Please provide us with your date of birth?",
+                                "type": "date",
+                              },
+                            ]
+          }
+          reset={undefined}
+          submitting={undefined}
+/>,
+      },
+      "_renderedNodeType": 0,
+      "_rootNodeID": 0,
+      "_topLevelWrapper": null,
+      "_updateBatchNumber": null,
+      "_warnedAboutRefsInRender": false,
+    },
+    "getRenderOutput": [Function],
+    "render": [Function],
+  },
+  "root": [Circular],
+  "unrendered": <Provider
+    store={undefined}
+>
+    <connectedWizardForm
+        fields={
+            Object {
+                "A01": Object {
+                  "error": undefined,
+                  "touched": undefined,
+                  "value": "",
+                },
+              }
+        }
+        handleSubmit={undefined}
+        onSave={undefined}
+        questions={
+            Array [
+                Object {
+                  "id": "A01",
+                  "next": "A02",
+                  "reply": "",
+                  "text": "What happened to your product?",
+                  "type": "string",
+                },
+                Object {
+                  "id": "A02",
+                  "next": "A04",
+                  "reply": "",
+                  "text": "When did the incident occur?",
+                  "type": "date",
+                },
+                Object {
+                  "id": "A03",
+                  "next": "A04",
+                  "reply": "",
+                  "text": "When was your last claim submission?",
+                  "type": "date",
+                },
+                Object {
+                  "id": "A04",
+                  "next": "A05",
+                  "reply": "",
+                  "text": "When did you purchase your product?",
+                  "type": "date",
+                },
+                Object {
+                  "id": "A05",
+                  "next": "A06",
+                  "reply": "",
+                  "text": "How much did your product cost?",
+                  "type": "number",
+                },
+                Object {
+                  "id": "A06",
+                  "next": "B01",
+                  "reply": "",
+                  "text": "Are you insured elsewhere?",
+                  "type": "boolean",
+                },
+                Object {
+                  "id": "A07",
+                  "next": null,
+                  "reply": "",
+                  "text": "Name of additional insurance?",
+                  "type": "string",
+                },
+                Object {
+                  "id": "B01",
+                  "next": "C01",
+                  "reply": "",
+                  "text": "Was a police report filed?",
+                  "type": "boolean",
+                },
+                Object {
+                  "id": "C01",
+                  "next": "C02",
+                  "reply": "",
+                  "text": "Please provide us with your full name?",
+                  "type": "string",
+                },
+                Object {
+                  "id": "C02",
+                  "next": "C03",
+                  "reply": "",
+                  "text": "Please provide us with a contact number?",
+                  "type": "string",
+                },
+                Object {
+                  "id": "C03",
+                  "next": null,
+                  "reply": "",
+                  "text": "Please provide us with a contact email address?",
+                  "type": "string",
+                },
+                Object {
+                  "id": "C04",
+                  "next": null,
+                  "reply": "",
+                  "text": "Please provide us with your date of birth?",
+                  "type": "date",
+                },
+              ]
+        }
+        reset={undefined}
+        submitting={undefined}
+    />
+</Provider>,
+}
+`;
