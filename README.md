@@ -1,5 +1,6 @@
 # Crypto Currency Market Analysis
 
+Live Demo: https://cryptocurrencydata.herokuapp.com/
 Follow the tutorial, read about this project at
 [medium article](https://medium.com/@seunghunsunmoonlee/crypto-currency-realtime-market-analysis-data-visualization-react-app-tutorial-4abcc857bdbe) written by Seunghun Lee.
 
