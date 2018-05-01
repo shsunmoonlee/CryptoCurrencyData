@@ -1,5 +1,21 @@
-<p>Seunghun Lee: I can improve UI , especially data set by modifying the chart.</p>
+<img src="http://res.cloudinary.com/seunghunlee/image/upload/v1525196364/Screen_Shot_2018-05-01_at_7.37.03_PM_qrhk7r.png" alt="Demo Image" align="center" />
+<img src="http://res.cloudinary.com/seunghunlee/image/upload/v1525196364/Screen_Shot_2018-05-01_at_7.37.25_PM_iqewjg.png" alt="Demo Image" align="center" />
+<img src="http://res.cloudinary.com/seunghunlee/image/upload/v1525196364/Screen_Shot_2018-05-01_at_7.37.31_PM_szv9h5.png" alt="Demo Image" align="center" />
 
+<div align="center"><strong>Crypto Currency Market Analysis</strong></div>
+<div align="center">Shows realtime Crypto Currency Market Table, Chart(Data Visualization) using react-vis(uber), API, Serverside Rendered React.js, Node.js
+</div>
+
+## Author
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+| [<img src="https://avatars1.githubusercontent.com/u/7311039?s=400&u=f9ea536356e677a07dfc605f01a389559e3b9215&v=4" width="100px;"/><br /><sub>Seunghun Lee</sub>](http://leeart.co)<br />[💻](https://github.com/seunghunsh/React.ai/commits?author=seunghunsh "Code") [📖](https://github.com/seunghunsh/React.ai/commits?author=seunghunsh "Documentation") [👀](#review-seunghunsh "Reviewed Pull Requests") [📢](#talk-seunghunsh "Talks")
+| :---: |
+<!-- ALL-CONTRIBUTORS-LIST:END -->
+
+* **Seunghun Lee** - [website](http://leeart.co) / [twitter](https://twitter.com/lifeartlee) / [instagram](https://www.instagram.com/seunghun.sunmoon.lee/)
+
+
+<div align="center"><strong>This project uses react-boilerplate</strong></div>
 
 <img src="https://raw.githubusercontent.com/react-boilerplate/react-boilerplate-brand/master/assets/banner-metal-optimized.jpg" alt="react boilerplate banner" align="center" />
 
