@@ -1,18 +1,18 @@
-![alt-text-1](http://res.cloudinary.com/seunghunlee/image/upload/v1525196364/Screen_Shot_2018-05-01_at_7.37.03_PM_qrhk7r.png "title-1") ![alt-text-2](http://res.cloudinary.com/seunghunlee/image/upload/v1525196364/Screen_Shot_2018-05-01_at_7.37.25_PM_iqewjg.png "title-2")
-![alt-text-2](http://res.cloudinary.com/seunghunlee/image/upload/v1525196364/Screen_Shot_2018-05-01_at_7.37.31_PM_szv9h5.png")
+<img src="http://res.cloudinary.com/seunghunlee/image/upload/v1525196364/Screen_Shot_2018-05-01_at_7.37.03_PM_qrhk7r.png" width="30%"></img> <img src="http://res.cloudinary.com/seunghunlee/image/upload/v1525196364/Screen_Shot_2018-05-01_at_7.37.25_PM_iqewjg.png" width="30%"></img> <img src="http://res.cloudinary.com/seunghunlee/image/upload/v1525196364/Screen_Shot_2018-05-01_at_7.37.31_PM_szv9h5.png" width="30%"></img>
+
 <p float="left">
   <img
-    width="300"
+    width="250"
     src="http://res.cloudinary.com/seunghunlee/image/upload/v1525196364/Screen_Shot_2018-05-01_at_7.37.03_PM_qrhk7r.png"
     alt="Demo Image"
   />
   <img
-    width="300"
+    width="250"
     src="http://res.cloudinary.com/seunghunlee/image/upload/v1525196364/Screen_Shot_2018-05-01_at_7.37.25_PM_iqewjg.png"
     alt="Demo Image"  
   />
   <img
-    width="300"
+    width="250"
     src="http://res.cloudinary.com/seunghunlee/image/upload/v1525196364/Screen_Shot_2018-05-01_at_7.37.31_PM_szv9h5.png"
     alt="Demo Image"  
     />
