@@ -1,4 +1,4 @@
-<img src="http://res.cloudinary.com/seunghunlee/image/upload/v1525196364/Screen_Shot_2018-05-01_at_7.37.03_PM_qrhk7r.png" width="33.3%"></img> <img src="http://res.cloudinary.com/seunghunlee/image/upload/v1525196364/Screen_Shot_2018-05-01_at_7.37.25_PM_iqewjg.png" width="33.3%"></img> <img src="http://res.cloudinary.com/seunghunlee/image/upload/v1525196364/Screen_Shot_2018-05-01_at_7.37.31_PM_szv9h5.png" width="33.3%"></img>
+<img src="http://res.cloudinary.com/seunghunlee/image/upload/v1525196364/Screen_Shot_2018-05-01_at_7.37.03_PM_qrhk7r.png" width="32%"></img> <img src="http://res.cloudinary.com/seunghunlee/image/upload/v1525196364/Screen_Shot_2018-05-01_at_7.37.25_PM_iqewjg.png" width="32%"></img> <img src="http://res.cloudinary.com/seunghunlee/image/upload/v1525196364/Screen_Shot_2018-05-01_at_7.37.31_PM_szv9h5.png" width="32%"></img>
 
 <br />
 
@@ -17,7 +17,7 @@ or
 ```
 npm install
 ```
-
+Then
 ```
 yarn start
 ```
@@ -25,7 +25,7 @@ or
 ```
 npm start
 ```
-Please take a look at cloud vision implementation guide for node.js
+More interesting data coming in soon...
 
 ## References
 This project uses awesome @react-boilerplate  [react-boilerplate](https://github.com/react-boilerplate/react-boilerplate)
