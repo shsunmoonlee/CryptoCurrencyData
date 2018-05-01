@@ -1,6 +1,21 @@
-<img src="http://res.cloudinary.com/seunghunlee/image/upload/v1525196364/Screen_Shot_2018-05-01_at_7.37.03_PM_qrhk7r.png" alt="Demo Image" align="center" />
-<img src="http://res.cloudinary.com/seunghunlee/image/upload/v1525196364/Screen_Shot_2018-05-01_at_7.37.25_PM_iqewjg.png" alt="Demo Image" align="center" />
-<img src="http://res.cloudinary.com/seunghunlee/image/upload/v1525196364/Screen_Shot_2018-05-01_at_7.37.31_PM_szv9h5.png" alt="Demo Image" align="center" />
+<img
+  align="left"
+  hspace="20"
+  src="http://res.cloudinary.com/seunghunlee/image/upload/v1525196364/Screen_Shot_2018-05-01_at_7.37.03_PM_qrhk7r.png"
+  alt="Demo Image"
+/>
+<img
+  align="left"
+  hspace="20"
+  src="http://res.cloudinary.com/seunghunlee/image/upload/v1525196364/Screen_Shot_2018-05-01_at_7.37.25_PM_iqewjg.png"
+  alt="Demo Image"  
+/>
+<img
+  align="left"
+  hspace="20"
+  src="http://res.cloudinary.com/seunghunlee/image/upload/v1525196364/Screen_Shot_2018-05-01_at_7.37.31_PM_szv9h5.png"
+  alt="Demo Image"  
+  />
 
 <div align="center"><strong>Crypto Currency Market Analysis</strong></div>
 <div align="center">Shows realtime Crypto Currency Market Table, Chart(Data Visualization) using react-vis(uber), API, Serverside Rendered React.js, Node.js
