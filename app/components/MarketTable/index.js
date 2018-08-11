@@ -6,7 +6,7 @@ import { setCoins } from '../../containers/App/actions';
 import { Button, Row, Col, Select, Table } from 'antd';
 import axios from 'axios'
 const Option = Select.Option;
-
+import PaperCurrencyTable from './PaperCurrencyTable'
 function handleChange(value) {
   // console.log(`selected ${value}`);
 }
@@ -214,7 +214,10 @@ export class MarketTable extends React.Component {
     return (
       <Row type="flex" justify="center">
         <Col style={{display: 'flex', textAlign: 'center', justifyContent: 'center', flexDirection: 'column'}} xs={{ span: 24, offset: 0 }} lg={{ span: 24, offset: 0 }}>
-          <h1>Market Table</h1>
+          <PaperCurrencyTable />
+        </Col>
+        <Col style={{display: 'flex', textAlign: 'center', justifyContent: 'center', flexDirection: 'column'}} xs={{ span: 24, offset: 0 }} lg={{ span: 24, offset: 0 }}>
+          <h1>Crypto Currency Market Table</h1>
           <div className="table-operations">
             <Select
               showSearch

@@ -13,7 +13,7 @@ class Header extends React.Component { // eslint-disable-line react/prefer-state
     return (
       <div style={{textAlign: 'center', margin: '0 auto' }}>
         <A style={{fontSize: '35px'}} href="/">
-          Crypto Coin Market Table, Liquid Chart
+          Paper Currency Exchange Rate, Crypto Coin Market Table, Liquid Chart
         </A>
         <NavBar>
           <HeaderLink to="/">
